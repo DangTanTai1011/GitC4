@@ -8,5 +8,6 @@ namespace Demogit.Models
 {
     internal class User
     {
+        public int ID { get; set; }
     }
 }
