@@ -8,5 +8,6 @@ namespace Demogit.Models
 {
     internal class Student
     {
+        public int MSSV { get; set; }
     }
 }
